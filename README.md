@@ -51,7 +51,7 @@ pip install vpython numpy
 2.  Execute o arquivo:
 
 ``` bash
-python trabalho\ completo.py
+python trabalho-completo.py
 ```
 
 3.  A simulação abrirá automaticamente no navegador.
@@ -64,7 +64,6 @@ python trabalho\ completo.py
 -   **Inputs:** campos para parâmetros físicos\
 -   **Lógica física:** força de Lorentz, método de Euler melhorado\
 -   **Gráficos:** energia cinética e componentes da velocidade\
--   **Estilização:** tema dark embutido via HTML/CSS
 
 ------------------------------------------------------------------------
 
@@ -79,5 +78,4 @@ demonstrações em sala de aula.
 
 ## 📜 Licença
 
-Este projeto é de uso livre para fins acadêmicos. Adicione aqui sua
-licença se desejar (MIT, GPL, etc).
+Este projeto é de uso livre para fins acadêmicos.
